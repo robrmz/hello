@@ -5,3 +5,5 @@ I'm a data enthusiast with a non-tech related educational background but strong 
 ![](https://media.giphy.com/media/ZFhhpKngh5QfcmhIDF/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/ZFhhpKngh5QfcmhIDF/giphy.gif)*
+
+[^1]:  Comentario de ==Alex==
