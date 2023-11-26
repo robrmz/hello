@@ -8,6 +8,7 @@ I'm a data enthusiast with a non-tech related educational background but strong 
 
 [^1]:  Comentario de ==Alex==
 
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
