@@ -20,3 +20,11 @@ Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajar
 
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/robrmz/hello/blob/main/docs/Referencias.md).
+
+
+Colaboración
+
+Roberto  y Reyna, trabajan juntos este repositorio. 
+Estudiantes de la Maestria en Ciencia de Datos de la Universidad de Guadalajara, cursando actualmente el tercer semestre. 
+
+
